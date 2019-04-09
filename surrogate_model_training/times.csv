@@ -1,0 +1,4 @@
+12,regression_surrogate_training_primary,0:07:23.356158,start,2019-03-29 15:23:07.512806,finish,2019-03-29 15:30:30.868964
+29,regression_surrogate_training_secondary,0:06:11.029687,start,2019-03-29 15:30:30.868964,finish,2019-03-29 15:36:41.898651
+12,regression_surrogate_training_tertiary,0:07:10.394936,start,2019-03-29 15:36:41.898651,finish,2019-03-29 15:43:52.293587
+17,classifier_surrogate_training,0:06:10.386149,start,2019-03-29 15:43:52.321791,finish,2019-03-29 15:50:02.707940

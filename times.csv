@@ -1,0 +1,13 @@
+10,simulation_ga_cont_fitness_total_time,17:14:26.943845,start,2019-03-25 18:24:11.489112,finish,2019-03-26 11:38:38.432957
+10,simulation_ga_discrete_fitness_total_time,22:43:22.865347,start,2019-03-26 11:38:38.433392,finish,2019-03-27 10:22:01.298739
+50000,continuous_batch_sim_data_generation,8:47:51.185616,start,2019-03-27 10:22:01.299139,finish,2019-03-27 19:09:52.484755
+50000,discrete_batch_sim_data_generation,9:00:55.564938,start,2019-03-27 19:09:52.484971,finish,2019-03-28 04:10:48.049909
+12,regression_surrogate_training_primary,0:07:23.356158,start,2019-03-29 15:23:07.512806,finish,2019-03-29 15:30:30.868964
+29,regression_surrogate_training_secondary,0:06:11.029687,start,2019-03-29 15:30:30.868964,finish,2019-03-29 15:36:41.898651
+12,regression_surrogate_training_tertiary,0:07:10.394936,start,2019-03-29 15:36:41.898651,finish,2019-03-29 15:43:52.293587
+17,classifier_surrogate_training,0:06:10.386149,start,2019-03-29 15:43:52.321791,finish,2019-03-29 15:50:02.707940
+100,surrogate_ga_cont_fitness_total_time,0:57:03.852119,start,2019-03-29 15:50:02.730404,finish,2019-03-29 16:47:06.582523
+100,surrogate_ga_discrete_fitness_total_time,0:58:02.354607,start,2019-03-29 16:47:06.583242,finish,2019-03-29 17:45:08.937849
+10,comparison_ga_discrete_total_time,3:33:37.689392,start,2019-04-07 17:46:45.581292,finish,2019-04-07 21:20:23.270684
+10,comparison_ga_cont_total_time,6:36:39.369726,start,2019-04-08 11:45:05.305826,finish,2019-04-08 18:21:44.675552
+1,comparison_ga_cont_total_time,0:46:12.637362,start,2019-04-08 19:06:08.339376,finish,2019-04-08 19:52:20.976738
